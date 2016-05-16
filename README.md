@@ -1,5 +1,10 @@
 # CodeUtil
 Some Utils
 
-eg:
+Git:
 git cherry-pick
+
+
+AndroidStudio:
+makeJar
+主题设置
