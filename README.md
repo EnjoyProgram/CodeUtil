@@ -7,4 +7,8 @@ git cherry-pick
 
 AndroidStudio:
 makeJar
-主题设置
+theme
+shortcut
+
+
+Java:
